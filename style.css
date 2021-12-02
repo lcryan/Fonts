@@ -1,0 +1,12 @@
+body  {
+    font-family: 'abeezee', sans-serif;
+    background-color: #F5F159;
+    color: #0A1133;
+    padding: 50px;
+    font-style: normal;
+}
+h1, h2 {
+    font-family: 'abeezee', sans-serif;
+    color: #FC7A57;
+    font-style: italic;
+}
